@@ -1,0 +1,7 @@
+__tests__
+.babelrc
+.eslintrc
+.github
+coverage
+lib
+test
