@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`A CircleButton Element applies bgColor modifier 1`] = `
+<button
+  className="sc-bdVaJa ijtmqC"
+/>
+`;
+
+exports[`A CircleButton Element renders correctly 1`] = `
+<button
+  className="sc-bdVaJa eTpEPC"
+/>
+`;

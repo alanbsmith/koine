@@ -1,7 +1,8 @@
-__tests__
 .babelrc
 .eslintrc
 .github
-coverage
-lib
-test
+*.DS_Store
+*npm-debug.log
+*yarn-error.log
+coverage/
+lib/

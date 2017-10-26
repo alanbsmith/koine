@@ -2,14 +2,16 @@
   root: true,
   parser: 'babel-eslint',
   plugins: [/*'import', */'jsx-a11y', 'react'],
-env: {
+
+  env: {
     browser: true,
     commonjs: true,
     es6: true,
     jest: true,
     node: true
   },
-parserOptions: {
+
+  parserOptions: {
     ecmaVersion: 6,
     sourceType: 'module',
     ecmaFeatures: {
@@ -18,7 +20,8 @@ parserOptions: {
       experimentalObjectRestSpread: true
     }
   },
-settings: {
+
+  settings: {
     'import/ignore': [
       'node_modules',
       '\\.(json|css|jpg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm)$',
@@ -30,7 +33,8 @@ settings: {
       }
     }
   },
-rules: {
+
+  rules: {
     // http://eslint.org/docs/rules/
     'array-callback-return': 'warn',
     'camelcase': 'warn',
@@ -132,7 +136,8 @@ rules: {
     'unicode-bom': ['warn', 'never'],
     'use-isnan': 'warn',
     'valid-typeof': 'warn',
-'react/jsx-boolean-value': 'warn',
+
+    'react/jsx-boolean-value': 'warn',
     'react/jsx-closing-bracket-location': 'warn',
     'react/jsx-curly-spacing': 'warn',
     'react/jsx-equals-spacing': ['warn', 'never'],
@@ -171,8 +176,10 @@ rules: {
     'react/sort-prop-types': 'warn',
     'react/style-prop-object': 'warn',
     'react/void-dom-elements-no-children': 'warn',
-// https://github.com/evcohen/eslint-plugin-jsx-a11y/tree/master/docs/rules
+
+    // https://github.com/evcohen/eslint-plugin-jsx-a11y/tree/master/docs/rules
     'jsx-a11y/aria-role': 'warn',
+    'jsx-a11y/alt-text': 'warn',
     'jsx-a11y/img-redundant-alt': 'warn',
     'jsx-a11y/no-access-key': 'warn'
   }

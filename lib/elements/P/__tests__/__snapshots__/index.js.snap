@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Element adds the boldWeight modifier 1`] = `
+<p
+  className="sc-bdVaJa fBmCNT"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Header Element adds the extraSmall modifier 1`] = `
+<p
+  className="sc-bdVaJa gYjnOM"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Header Element adds the italic modifier 1`] = `
+<p
+  className="sc-bdVaJa dSDadT"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Header Element adds the large modifier 1`] = `
+<p
+  className="sc-bdVaJa iHluKy"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Header Element adds the small modifier 1`] = `
+<p
+  className="sc-bdVaJa iRqVHv"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Header Element renders correctly 1`] = `
+<p
+  className="sc-bdVaJa fNqJPA"
+>
+  Header Element
+</p>
+`;

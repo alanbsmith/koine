@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`A H6 Element applies lightWeight modifier 1`] = `
+<h6
+  className="sc-bdVaJa jUjbEm"
+>
+  Header Element
+</h6>
+`;
+
+exports[`A H6 Element renders correctly 1`] = `
+<h6
+  className="sc-bdVaJa ifcfJo"
+>
+  Header Element
+</h6>
+`;
