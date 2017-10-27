@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.1.0
+* Adds blocks
+  * Board
+  * Card
+  * Column
+  * UpvoteButton
+* Adds initial tests
+* Adds common modifiers
+  * fontStyles
+* Removes internal theme and styles
+
 ## 1.0.0
 * Rebuilds internal tooling
   * eslint (config and setup)

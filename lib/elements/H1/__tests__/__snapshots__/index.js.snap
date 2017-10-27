@@ -10,7 +10,7 @@ exports[`A H1 Element applies normalWeight modifier 1`] = `
 
 exports[`A H1 Element renders correctly 1`] = `
 <h1
-  className="sc-bdVaJa cOWxkJ"
+  className="sc-bdVaJa jqOjeD"
 >
   Header Element
 </h1>

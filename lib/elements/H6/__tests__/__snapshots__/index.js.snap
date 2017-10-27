@@ -10,7 +10,7 @@ exports[`A H6 Element applies lightWeight modifier 1`] = `
 
 exports[`A H6 Element renders correctly 1`] = `
 <h6
-  className="sc-bdVaJa ifcfJo"
+  className="sc-bdVaJa bmfcQW"
 >
   Header Element
 </h6>

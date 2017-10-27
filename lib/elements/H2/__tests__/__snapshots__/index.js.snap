@@ -2,7 +2,7 @@
 
 exports[`A H2 Element applies mediumWeight modifier 1`] = `
 <h2
-  className="sc-bdVaJa dVWMMw"
+  className="sc-bdVaJa cWLNgv"
 >
   Header Element
 </h2>
@@ -10,7 +10,7 @@ exports[`A H2 Element applies mediumWeight modifier 1`] = `
 
 exports[`A H2 Element renders correctly 1`] = `
 <h2
-  className="sc-bdVaJa FryIb"
+  className="sc-bdVaJa cWLNgv"
 >
   Header Element
 </h2>
