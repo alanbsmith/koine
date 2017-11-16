@@ -65,8 +65,8 @@
       "lib/**",
       "!lib/**/*.snap",
       "!lib/blocks/index.js",
+      "!lib/components/index.js",
       "!lib/elements/index.js",
-      "!lib/modifiers/**",
       "!lib/index.js"
     ],
     "coverageThreshold": {
@@ -77,8 +77,13 @@
         "statements": 90
       }
     },
+    "moduleDirectories": [
+      "node_modules",
+      "./"
+    ],
     "setupFiles": [
-      "raf/polyfill"
+      "raf/polyfill",
+      "./__tests__/config"
     ]
   }
 }
