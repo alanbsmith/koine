@@ -1,0 +1,333 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField Element adds the focusBlue modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusDanger modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #cc1111;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusDefault modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #8492A6;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusGreen modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #13CE66;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusInfo modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #0492d2;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusOrange modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #FF7849;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusPink modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #FF49DB;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusPurple modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #7E5BEF;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusSuccess modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #00a651;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusWarning modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #f2c144;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusYellow modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+.c0:focus {
+  border-bottom-color: #FFC82C;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element renders correctly 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #F9FAFC;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1.25rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #1FB6FF;
+}
+
+<input
+  className="c0"
+/>
+`;
