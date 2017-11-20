@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`H5 Element applies mediumWeight modifier 1`] = `
+<h1
+  className="sc-bdVaJa dpKQGG"
+>
+  Header Element
+</h1>
+`;
+
+exports[`H5 Element renders correctly 1`] = `
+<h1
+  className="sc-bdVaJa dpKQGG"
+>
+  Header Element
+</h1>
+`;
