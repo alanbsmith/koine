@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label Element adds the fontWeightBold modifier 1`] = `
+.c0 {
+  color: #8492A6;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+<label
+  className="c0"
+>
+  Label
+</label>
+`;
+
+exports[`Label Element adds the italicize modifier 1`] = `
+.c0 {
+  color: #8492A6;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+<label
+  className="c0"
+>
+  Label
+</label>
+`;
+
+exports[`Label Element renders correctly 1`] = `
+.c0 {
+  color: #8492A6;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+<label
+  className="c0"
+>
+  Label
+</label>
+`;
