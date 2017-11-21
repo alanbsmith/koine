@@ -1,40 +1,181 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Paragraph Element adds the extraSmall modifier 1`] = `
+exports[`Paragraph Element adds the boldWeight modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 700;
+}
+
 <p
-  className="sc-bdVaJa nBIQZ"
+  className="c0"
 >
   A paragraph
 </p>
 `;
 
-exports[`Paragraph Element adds the italic modifier 1`] = `
+exports[`Paragraph Element adds the capitalize modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  text-transform: capitalize;
+}
+
 <p
-  className="sc-bdVaJa jlyneo"
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the extraSmall modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+<p
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the italicize modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-style: italic;
+}
+
+<p
+  className="c0"
 >
   A paragraph
 </p>
 `;
 
 exports[`Paragraph Element adds the large modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-size: 1.125rem;
+}
+
 <p
-  className="sc-bdVaJa ihykMf"
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the lightWeight modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 300;
+}
+
+<p
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the lowercase modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  text-transform: lowercase;
+}
+
+<p
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the normalWeight modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 400;
+}
+
+<p
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the semiBoldWeight modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+<p
+  className="c0"
 >
   A paragraph
 </p>
 `;
 
 exports[`Paragraph Element adds the small modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-size: 0.875rem;
+}
+
 <p
-  className="sc-bdVaJa ePiLEH"
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the underline modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  text-decoration: underline;
+}
+
+<p
+  className="c0"
+>
+  A paragraph
+</p>
+`;
+
+exports[`Paragraph Element adds the uppercase modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+<p
+  className="c0"
 >
   A paragraph
 </p>
 `;
 
 exports[`Paragraph Element renders correctly 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+}
+
 <p
-  className="sc-bdVaJa gKsUTs"
+  className="c0"
 >
   A paragraph
 </p>
