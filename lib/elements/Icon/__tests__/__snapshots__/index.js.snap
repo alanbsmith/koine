@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Element renders correctly 1`] = `
+<span
+  aria-hidden={true}
+  className="fa fa-home sc-bdVaJa eMFQSc"
+/>
+`;

@@ -39,6 +39,10 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c2 {
+  font-size: 1rem;
+}
+
 <button
   className="c0"
 >
@@ -49,7 +53,7 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home "
+    className="fa fa-home c2"
   />
 </button>
 `;
@@ -97,6 +101,10 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c2 {
+  font-size: 1rem;
+}
+
 <button
   className="c0"
 >
@@ -107,7 +115,7 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home "
+    className="fa fa-home c2"
   />
 </button>
 `;
@@ -150,6 +158,10 @@ exports[`Button Block renders correctly 1`] = `
   text-transform: uppercase;
 }
 
+.c2 {
+  font-size: 1rem;
+}
+
 <button
   className="c0"
 >
@@ -160,7 +172,7 @@ exports[`Button Block renders correctly 1`] = `
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home "
+    className="fa fa-home c2"
   />
 </button>
 `;

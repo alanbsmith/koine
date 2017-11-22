@@ -3,20 +3,20 @@
 exports[`Icon Element applies left modifier 1`] = `
 <span
   aria-hidden={true}
-  className="fa fa-home sc-bdVaJa iyMfqV"
+  className="fa fa-home sc-fjdhpX jadzhc sc-iwsKbI dOYHoU"
 />
 `;
 
 exports[`Icon Element applies right modifier 1`] = `
 <span
   aria-hidden={true}
-  className="fa fa-home sc-bdVaJa gPEmtc"
+  className="fa fa-home sc-fjdhpX lnzApX sc-iwsKbI dOYHoU"
 />
 `;
 
 exports[`Icon Element renders correctly 1`] = `
 <span
   aria-hidden={true}
-  className="fa fa-home sc-bdVaJa ibTDPh"
+  className="fa fa-home sc-fjdhpX cQEeDA sc-iwsKbI dOYHoU"
 />
 `;
