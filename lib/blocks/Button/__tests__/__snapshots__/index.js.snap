@@ -58,6 +58,66 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
 </button>
 `;
 
+exports[`Button Block adds the fullWidth modifier 1`] = `
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #1FB6FF;
+  border-radius: 2px;
+  border: solid 1px transparent;
+  color: #FFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  line-height: 0;
+  padding: 0.5rem;
+  outline: none;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.c0:hover,
+.c0:focus {
+  background-color: #39beff;
+  box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
+}
+
+.c1 {
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.c2 {
+  font-size: 1rem;
+}
+
+<button
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    Login
+  </span>
+  <span
+    aria-hidden={true}
+    className="fa fa-home c2"
+  />
+</button>
+`;
+
 exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
 .c0 {
   -webkit-align-items: center;
