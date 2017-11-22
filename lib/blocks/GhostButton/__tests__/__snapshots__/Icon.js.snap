@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Element applies left modifier 1`] = `
+<span
+  aria-hidden={true}
+  className="fa fa-home sc-fjdhpX jadzhc sc-iwsKbI dOYHoU"
+/>
+`;
+
+exports[`Icon Element applies right modifier 1`] = `
+<span
+  aria-hidden={true}
+  className="fa fa-home sc-fjdhpX lnzApX sc-iwsKbI dOYHoU"
+/>
+`;
+
+exports[`Icon Element renders correctly 1`] = `
+<span
+  aria-hidden={true}
+  className="fa fa-home sc-fjdhpX cQEeDA sc-iwsKbI dOYHoU"
+/>
+`;
