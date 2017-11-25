@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal Block renders correctly 1`] = `
+.c0 {
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  background-color: rgba(31,45,61,0.85);
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  left: 0;
+  padding: 1rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 3;
+}
+
+.c1 {
+  -webkit-animation: jKHvMI 0.2s ease;
+  animation: jKHvMI 0.2s ease;
+  background-color: #FFF;
+  border-radius: 2px;
+  margin: 0.5rem;
+  width: 40rem;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  background-color: #C0CCDA;
+  border-radius: 2px 2px 0 0;
+  color: #FFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 6rem;
+  padding: 0.5rem;
+  position: relative;
+}
+
+.c4 {
+  background-color: transparent;
+  color: #8492A6;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.c4:hover,
+.c4:focus {
+  color: #3C4858;
+}
+
+.c5 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #EFF2F7;
+  border: solid 2px transparent;
+  border-radius: 2px;
+  box-sizing: border-box;
+  color: #8492A6;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1rem;
+  height: 3rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  outline: none;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  width: 3rem;
+}
+
+.c6 {
+  color: #FFF;
+  font-weight: 400;
+  overflow: hidden;
+  padding: 0.5rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.c7 {
+  font-size: 2.25rem;
+  margin: 0;
+  text-transform: capitalize;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 0.5rem;
+  position: relative;
+}
+
+.c9 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 0.5rem;
+}
+
+.c10 {
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+  >
+    <div
+      className="c3"
+    >
+      <button
+        className="c4 c5"
+      />
+      <h2
+        className="c6 c7"
+      >
+        header text
+      </h2>
+    </div>
+    <div
+      className="c8 c9"
+    >
+      body
+    </div>
+    <div
+      className="c10 c9"
+    >
+      footer
+    </div>
+  </div>
+</div>
+`;

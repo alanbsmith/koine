@@ -4,12 +4,12 @@ exports[`TextArea Element adds the focusBlue modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -17,7 +17,7 @@ exports[`TextArea Element adds the focusBlue modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -33,12 +33,12 @@ exports[`TextArea Element adds the focusDanger modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -46,7 +46,7 @@ exports[`TextArea Element adds the focusDanger modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -62,12 +62,12 @@ exports[`TextArea Element adds the focusDefault modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -75,7 +75,7 @@ exports[`TextArea Element adds the focusDefault modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -91,12 +91,12 @@ exports[`TextArea Element adds the focusGreen modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -104,7 +104,7 @@ exports[`TextArea Element adds the focusGreen modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -120,12 +120,12 @@ exports[`TextArea Element adds the focusInfo modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -133,7 +133,7 @@ exports[`TextArea Element adds the focusInfo modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -149,12 +149,12 @@ exports[`TextArea Element adds the focusOrange modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -162,7 +162,7 @@ exports[`TextArea Element adds the focusOrange modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -178,12 +178,12 @@ exports[`TextArea Element adds the focusPink modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -191,7 +191,7 @@ exports[`TextArea Element adds the focusPink modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -207,12 +207,12 @@ exports[`TextArea Element adds the focusPurple modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -220,7 +220,7 @@ exports[`TextArea Element adds the focusPurple modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -236,12 +236,12 @@ exports[`TextArea Element adds the focusSuccess modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -249,7 +249,7 @@ exports[`TextArea Element adds the focusSuccess modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -265,12 +265,12 @@ exports[`TextArea Element adds the focusWarning modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -278,7 +278,7 @@ exports[`TextArea Element adds the focusWarning modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -294,12 +294,12 @@ exports[`TextArea Element adds the focusYellow modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -307,7 +307,7 @@ exports[`TextArea Element adds the focusYellow modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 .c0:focus {
@@ -323,12 +323,12 @@ exports[`TextArea Element renders correctly 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #F9FAFC;
+  border-bottom: 2px solid #EFF2F7;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  font-size: 1.25rem;
+  font-size: 1rem;
   outline: none;
   resize: vertical;
   -webkit-transition: border-bottom 200ms ease;
@@ -336,7 +336,7 @@ exports[`TextArea Element renders correctly 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #1FB6FF;
+  border-bottom-color: #C0CCDA;
 }
 
 <textarea

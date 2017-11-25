@@ -1,17 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`H4 Element applies normalWeight modifier 1`] = `
-<h1
+<h4
   className="sc-bdVaJa bMPpFu"
 >
   Header Element
-</h1>
+</h4>
 `;
 
 exports[`H4 Element renders correctly 1`] = `
-<h1
+<h4
   className="sc-bdVaJa fzsVZC"
 >
   Header Element
-</h1>
+</h4>
 `;

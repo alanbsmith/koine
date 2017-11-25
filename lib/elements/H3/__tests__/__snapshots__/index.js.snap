@@ -1,17 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`H3 Element applies lightWeight modifier 1`] = `
-<h1
+<h3
   className="sc-bdVaJa gMfmak"
 >
   Header Element
-</h1>
+</h3>
 `;
 
 exports[`H3 Element renders correctly 1`] = `
-<h1
+<h3
   className="sc-bdVaJa fisvCP"
 >
   Header Element
-</h1>
+</h3>
 `;

@@ -6,7 +6,7 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -20,8 +20,7 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -30,7 +29,7 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -65,7 +64,7 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -79,8 +78,7 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -91,7 +89,7 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -126,7 +124,7 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -140,8 +138,7 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -149,7 +146,7 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -189,7 +186,7 @@ exports[`Button Block renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -203,8 +200,7 @@ exports[`Button Block renders correctly 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -212,7 +208,7 @@ exports[`Button Block renders correctly 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
