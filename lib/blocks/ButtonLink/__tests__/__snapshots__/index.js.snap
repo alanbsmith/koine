@@ -14,6 +14,7 @@ exports[`ButtonLink Block adds the bgDanger modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c1 {
@@ -21,7 +22,7 @@ exports[`ButtonLink Block adds the bgDanger modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -35,8 +36,7 @@ exports[`ButtonLink Block adds the bgDanger modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -45,7 +45,7 @@ exports[`ButtonLink Block adds the bgDanger modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -73,6 +73,7 @@ exports[`ButtonLink Block adds the fullWidth modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c1 {
@@ -80,7 +81,7 @@ exports[`ButtonLink Block adds the fullWidth modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -94,8 +95,7 @@ exports[`ButtonLink Block adds the fullWidth modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -106,7 +106,7 @@ exports[`ButtonLink Block adds the fullWidth modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -131,6 +131,7 @@ exports[`ButtonLink Block adds the hoverBgDanger modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c1 {
@@ -138,7 +139,7 @@ exports[`ButtonLink Block adds the hoverBgDanger modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -152,8 +153,7 @@ exports[`ButtonLink Block adds the hoverBgDanger modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -161,7 +161,7 @@ exports[`ButtonLink Block adds the hoverBgDanger modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -191,6 +191,7 @@ exports[`ButtonLink Block adds the hoverCustom modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c0:hover,
@@ -203,7 +204,7 @@ exports[`ButtonLink Block adds the hoverCustom modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -217,8 +218,7 @@ exports[`ButtonLink Block adds the hoverCustom modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -226,7 +226,7 @@ exports[`ButtonLink Block adds the hoverCustom modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -251,6 +251,7 @@ exports[`ButtonLink Block adds the hoverDanger modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c0:hover,
@@ -263,7 +264,7 @@ exports[`ButtonLink Block adds the hoverDanger modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -277,8 +278,7 @@ exports[`ButtonLink Block adds the hoverDanger modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -286,7 +286,7 @@ exports[`ButtonLink Block adds the hoverDanger modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -311,6 +311,7 @@ exports[`ButtonLink Block adds the hoverInfo modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c0:hover,
@@ -323,7 +324,7 @@ exports[`ButtonLink Block adds the hoverInfo modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -337,8 +338,7 @@ exports[`ButtonLink Block adds the hoverInfo modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -346,7 +346,7 @@ exports[`ButtonLink Block adds the hoverInfo modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -371,6 +371,7 @@ exports[`ButtonLink Block adds the hoverSuccess modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c0:hover,
@@ -383,7 +384,7 @@ exports[`ButtonLink Block adds the hoverSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -397,8 +398,7 @@ exports[`ButtonLink Block adds the hoverSuccess modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -406,7 +406,7 @@ exports[`ButtonLink Block adds the hoverSuccess modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -431,6 +431,7 @@ exports[`ButtonLink Block adds the hoverWarning modifier 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c0:hover,
@@ -443,7 +444,7 @@ exports[`ButtonLink Block adds the hoverWarning modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -457,8 +458,7 @@ exports[`ButtonLink Block adds the hoverWarning modifier 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -466,7 +466,7 @@ exports[`ButtonLink Block adds the hoverWarning modifier 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -491,6 +491,7 @@ exports[`ButtonLink Block renders correctly 1`] = `
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c1 {
@@ -498,7 +499,7 @@ exports[`ButtonLink Block renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -512,8 +513,7 @@ exports[`ButtonLink Block renders correctly 1`] = `
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -521,7 +521,7 @@ exports[`ButtonLink Block renders correctly 1`] = `
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
@@ -546,6 +546,7 @@ exports[`ButtonLink Block uses default styles if no hoverColor is provided with 
   background: transparent;
   box-shadow: none;
   color: #1F2D3D;
+  text-decoration: underline;
 }
 
 .c0:hover,
@@ -558,7 +559,7 @@ exports[`ButtonLink Block uses default styles if no hoverColor is provided with 
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1FB6FF;
+  background-color: #C0CCDA;
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
@@ -572,8 +573,7 @@ exports[`ButtonLink Block uses default styles if no hoverColor is provided with 
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  line-height: 0;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -581,7 +581,7 @@ exports[`ButtonLink Block uses default styles if no hoverColor is provided with 
 
 .c1:hover,
 .c1:focus {
-  background-color: #39beff;
+  background-color: #d0d9e3;
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
