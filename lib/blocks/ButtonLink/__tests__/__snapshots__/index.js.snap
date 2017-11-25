@@ -1,16 +1,17 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`GhostButton Block adds the bgDanger modifier 1`] = `
+exports[`ButtonLink Block adds the bgDanger modifier 1`] = `
 .c0 {
   background: transparent;
-  border-color: #8492A6;
   color: #8492A6;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
@@ -48,36 +49,20 @@ exports[`GhostButton Block adds the bgDanger modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
-  font-size: 0.75rem;
-  font-weight: 300;
-  text-transform: uppercase;
-}
-
-.c3 {
-  font-size: 1rem;
-}
-
 <button
   className="c0 c1"
 >
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-  <span
-    aria-hidden={true}
-    className="fa fa-home c3"
-  />
+  Login
 </button>
 `;
 
-exports[`GhostButton Block adds the fullWidth modifier 1`] = `
+exports[`ButtonLink Block adds the fullWidth modifier 1`] = `
 .c0 {
   background: transparent;
-  border-color: #8492A6;
   color: #8492A6;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
@@ -86,7 +71,6 @@ exports[`GhostButton Block adds the fullWidth modifier 1`] = `
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
@@ -126,42 +110,25 @@ exports[`GhostButton Block adds the fullWidth modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block adds the hoverBgDanger modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-.c3 {
-  font-size: 1rem;
-}
-
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-  <span
-    aria-hidden={true}
-    className="fa fa-home c3"
-  />
-</button>
-`;
-
-exports[`GhostButton Block adds the hoverBgDanger modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
@@ -203,49 +170,31 @@ exports[`GhostButton Block adds the hoverBgDanger modifier 1`] = `
   background-color: #e41313;
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block adds the hoverCustom modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-.c3 {
-  font-size: 1rem;
-}
-
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-  <span
-    aria-hidden={true}
-    className="fa fa-home c3"
-  />
-</button>
-`;
-
-exports[`GhostButton Block adds the hoverCustom modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
 
 .c0:hover,
 .c0:focus {
-  border-color: #FF49DB;
   color: #FF49DB;
 }
 
@@ -281,41 +230,31 @@ exports[`GhostButton Block adds the hoverCustom modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block adds the hoverDanger modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-</button>
-`;
-
-exports[`GhostButton Block adds the hoverDanger modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
 
 .c0:hover,
 .c0:focus {
-  border-color: #cc1111;
   color: #cc1111;
 }
 
@@ -351,41 +290,31 @@ exports[`GhostButton Block adds the hoverDanger modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block adds the hoverInfo modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-</button>
-`;
-
-exports[`GhostButton Block adds the hoverInfo modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
 
 .c0:hover,
 .c0:focus {
-  border-color: #0492d2;
   color: #0492d2;
 }
 
@@ -421,41 +350,31 @@ exports[`GhostButton Block adds the hoverInfo modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block adds the hoverSuccess modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-</button>
-`;
-
-exports[`GhostButton Block adds the hoverSuccess modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
 
 .c0:hover,
 .c0:focus {
-  border-color: #00a651;
   color: #00a651;
 }
 
@@ -491,41 +410,31 @@ exports[`GhostButton Block adds the hoverSuccess modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block adds the hoverWarning modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-</button>
-`;
-
-exports[`GhostButton Block adds the hoverWarning modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
 
 .c0:hover,
 .c0:focus {
-  border-color: #f2c144;
   color: #f2c144;
 }
 
@@ -561,34 +470,25 @@ exports[`GhostButton Block adds the hoverWarning modifier 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block renders correctly 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-</button>
-`;
-
-exports[`GhostButton Block renders correctly 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
@@ -625,49 +525,31 @@ exports[`GhostButton Block renders correctly 1`] = `
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
+<button
+  className="c0 c1"
+>
+  Login
+</button>
+`;
+
+exports[`ButtonLink Block uses default styles if no hoverColor is provided with hoverCustom modifier 1`] = `
+.c0 {
+  background: transparent;
+  color: #8492A6;
   font-size: 0.75rem;
   font-weight: 300;
   text-transform: uppercase;
 }
 
-.c3 {
-  font-size: 1rem;
-}
-
-<button
-  className="c0 c1"
->
-  <span
-    className="c2"
-  >
-    Login
-  </span>
-  <span
-    aria-hidden={true}
-    className="fa fa-home c3"
-  />
-</button>
-`;
-
-exports[`GhostButton Block uses default styles if no hoverColor is provided with hoverCustom modifier 1`] = `
-.c0 {
-  background: transparent;
-  border-color: #8492A6;
-  color: #8492A6;
-}
-
 .c0:hover,
 .c0:focus {
   background: transparent;
-  border-color: #1F2D3D;
   box-shadow: none;
   color: #1F2D3D;
 }
 
 .c0:hover,
 .c0:focus {
-  border-color: #1F2D3D;
   color: #1F2D3D;
 }
 
@@ -703,19 +585,9 @@ exports[`GhostButton Block uses default styles if no hoverColor is provided with
   box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
 }
 
-.c2 {
-  font-size: 0.75rem;
-  font-weight: 300;
-  text-transform: uppercase;
-}
-
 <button
   className="c0 c1"
 >
-  <span
-    className="c2"
-  >
-    Login
-  </span>
+  Login
 </button>
 `;

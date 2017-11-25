@@ -10,6 +10,7 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
+  cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -68,6 +69,7 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
+  cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -128,6 +130,7 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
+  cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -190,6 +193,7 @@ exports[`Button Block renders correctly 1`] = `
   border-radius: 2px;
   border: solid 1px transparent;
   color: #FFF;
+  cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
