@@ -24,6 +24,7 @@
   "author": "Alan Smith <a.bax.smith@gmail.com> (https://github.com/alanbsmith)",
   "license": "MIT",
   "dependencies": {
+    "koine-ui-utils": "^0.2.1",
     "lodash": "^4.17.4",
     "polished": "^1.8.1",
     "react-fontawesome": "^1.6.1",
@@ -54,7 +55,6 @@
     "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.0.0",
     "react-test-renderer": "^16.0.0",
-    "retrosockets-ui-utils": "^0.1.0",
     "rimraf": "^2.6.2",
     "stylelint": "^8.2.0",
     "stylelint-config-standard": "^17.0.0",

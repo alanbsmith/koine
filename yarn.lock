@@ -3114,6 +3114,14 @@ known-css-properties@^0.4.0:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/known-css-properties/-/known-css-properties-0.4.1.tgz#baaaf704e5f8a5f10e0e221212aae3ea738ea372"
 
+koine-ui-utils@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/koine-ui-utils/-/koine-ui-utils-0.2.1.tgz#e817e0559806d9c73a3c7af2664f3d4f15994d14"
+  dependencies:
+    polished "^1.8.1"
+    react "^16.0.0"
+    styled-components "^2.2.2"
+
 lazy-cache@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/lazy-cache/-/lazy-cache-1.0.4.tgz#a1d78fc3a50474cb80845d3b3b6e1da49a446e8e"
@@ -4222,14 +4230,6 @@ restore-cursor@^2.0.0:
 ret@~0.1.10:
   version "0.1.15"
   resolved "https://registry.yarnpkg.com/ret/-/ret-0.1.15.tgz#b8a4825d5bdb1fc3f6f53c2bc33f81388681c7bc"
-
-retrosockets-ui-utils@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/retrosockets-ui-utils/-/retrosockets-ui-utils-0.1.0.tgz#2973e3810f70a1ccfc6f6e6066bf2616c18927f8"
-  dependencies:
-    polished "^1.8.1"
-    react "^16.0.0"
-    styled-components "^2.2.2"
 
 right-align@^0.1.1:
   version "0.1.3"
