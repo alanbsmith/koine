@@ -6,10 +6,10 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #C0CCDA;
+  background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
-  color: #FFF;
+  color: #FFFFFF;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -24,13 +24,13 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   outline: none;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
-  background-color: #00a651;
+  background-color: #13CE66;
 }
 
 .c0:hover,
 .c0:focus {
-  background-color: #d0d9e3;
-  box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
 }
 
 .c1 {
@@ -64,10 +64,10 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #C0CCDA;
+  background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
-  color: #FFF;
+  color: #FFFFFF;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -89,8 +89,8 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #d0d9e3;
-  box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
 }
 
 .c1 {
@@ -124,10 +124,10 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #C0CCDA;
+  background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
-  color: #FFF;
+  color: #FFFFFF;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -146,13 +146,13 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #d0d9e3;
-  box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
 }
 
 .c0:hover,
 .c0:focus {
-  background-color: #00c05d;
+  background-color: #15e572;
 }
 
 .c1 {
@@ -186,10 +186,10 @@ exports[`Button Block renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #C0CCDA;
+  background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
-  color: #FFF;
+  color: #FFFFFF;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -208,8 +208,8 @@ exports[`Button Block renders correctly 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #d0d9e3;
-  box-shadow: 0 8px 8px 0 rgba(132,146,166,0.4);
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
 }
 
 .c1 {

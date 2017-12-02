@@ -4,7 +4,7 @@ exports[`TextField Element adds the focusBlue modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -16,7 +16,7 @@ exports[`TextField Element adds the focusBlue modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
@@ -32,7 +32,7 @@ exports[`TextField Element adds the focusDanger modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -44,11 +44,11 @@ exports[`TextField Element adds the focusDanger modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
-  border-bottom-color: #cc1111;
+  border-bottom-color: #FF4949;
 }
 
 <input
@@ -60,7 +60,7 @@ exports[`TextField Element adds the focusDefault modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -72,11 +72,11 @@ exports[`TextField Element adds the focusDefault modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
-  border-bottom-color: #8492A6;
+  border-bottom-color: #AFAFAF;
 }
 
 <input
@@ -88,7 +88,7 @@ exports[`TextField Element adds the focusGreen modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -100,7 +100,7 @@ exports[`TextField Element adds the focusGreen modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
@@ -116,7 +116,7 @@ exports[`TextField Element adds the focusInfo modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -128,11 +128,11 @@ exports[`TextField Element adds the focusInfo modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
-  border-bottom-color: #0492d2;
+  border-bottom-color: #1FB6FF;
 }
 
 <input
@@ -144,7 +144,7 @@ exports[`TextField Element adds the focusOrange modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -156,7 +156,7 @@ exports[`TextField Element adds the focusOrange modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
@@ -172,7 +172,7 @@ exports[`TextField Element adds the focusPink modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -184,7 +184,7 @@ exports[`TextField Element adds the focusPink modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
@@ -200,7 +200,7 @@ exports[`TextField Element adds the focusPurple modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -212,7 +212,7 @@ exports[`TextField Element adds the focusPurple modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
@@ -228,7 +228,7 @@ exports[`TextField Element adds the focusSuccess modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -240,11 +240,11 @@ exports[`TextField Element adds the focusSuccess modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
-  border-bottom-color: #00a651;
+  border-bottom-color: #13CE66;
 }
 
 <input
@@ -256,7 +256,7 @@ exports[`TextField Element adds the focusWarning modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -268,11 +268,11 @@ exports[`TextField Element adds the focusWarning modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
-  border-bottom-color: #f2c144;
+  border-bottom-color: #FFC82C;
 }
 
 <input
@@ -284,7 +284,7 @@ exports[`TextField Element adds the focusYellow modifier 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -296,7 +296,7 @@ exports[`TextField Element adds the focusYellow modifier 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 .c0:focus {
@@ -312,7 +312,7 @@ exports[`TextField Element renders correctly 1`] = `
 .c0 {
   background: none;
   border: none;
-  border-bottom: 2px solid #EFF2F7;
+  border-bottom: 2px solid #FAFAFA;
   box-sizing: border-box;
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -324,7 +324,7 @@ exports[`TextField Element renders correctly 1`] = `
 }
 
 .c0:focus {
-  border-bottom-color: #C0CCDA;
+  border-bottom-color: #7D7D7D;
 }
 
 <input

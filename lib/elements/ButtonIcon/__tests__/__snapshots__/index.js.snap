@@ -6,11 +6,11 @@ exports[`ButtonIcon Element adds the bgBlue modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -40,11 +40,11 @@ exports[`ButtonIcon Element adds the bgChrome000 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -60,7 +60,7 @@ exports[`ButtonIcon Element adds the bgChrome000 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #FFF;
+  background-color: #FFFFFF;
 }
 
 <button
@@ -74,11 +74,11 @@ exports[`ButtonIcon Element adds the bgChrome050 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -94,7 +94,7 @@ exports[`ButtonIcon Element adds the bgChrome050 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #F9FAFC;
+  background-color: undefined;
 }
 
 <button
@@ -108,11 +108,11 @@ exports[`ButtonIcon Element adds the bgChrome100 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -128,7 +128,7 @@ exports[`ButtonIcon Element adds the bgChrome100 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
 }
 
 <button
@@ -142,11 +142,11 @@ exports[`ButtonIcon Element adds the bgChrome200 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -162,7 +162,7 @@ exports[`ButtonIcon Element adds the bgChrome200 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #E5E9F2;
+  background-color: #C8C8C8;
 }
 
 <button
@@ -176,11 +176,11 @@ exports[`ButtonIcon Element adds the bgChrome300 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -196,7 +196,7 @@ exports[`ButtonIcon Element adds the bgChrome300 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #E0E6ED;
+  background-color: #AFAFAF;
 }
 
 <button
@@ -210,11 +210,11 @@ exports[`ButtonIcon Element adds the bgChrome400 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -230,7 +230,7 @@ exports[`ButtonIcon Element adds the bgChrome400 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #D3DCE6;
+  background-color: #969696;
 }
 
 <button
@@ -244,11 +244,11 @@ exports[`ButtonIcon Element adds the bgChrome500 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -264,7 +264,7 @@ exports[`ButtonIcon Element adds the bgChrome500 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #C0CCDA;
+  background-color: #7D7D7D;
 }
 
 <button
@@ -278,11 +278,11 @@ exports[`ButtonIcon Element adds the bgChrome600 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -298,7 +298,7 @@ exports[`ButtonIcon Element adds the bgChrome600 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #8492A6;
+  background-color: #646464;
 }
 
 <button
@@ -312,11 +312,11 @@ exports[`ButtonIcon Element adds the bgChrome700 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -332,7 +332,7 @@ exports[`ButtonIcon Element adds the bgChrome700 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #3C4858;
+  background-color: #4B4B4B;
 }
 
 <button
@@ -346,11 +346,11 @@ exports[`ButtonIcon Element adds the bgChrome800 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -366,7 +366,7 @@ exports[`ButtonIcon Element adds the bgChrome800 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #273444;
+  background-color: #323232;
 }
 
 <button
@@ -380,11 +380,11 @@ exports[`ButtonIcon Element adds the bgChrome900 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -400,7 +400,7 @@ exports[`ButtonIcon Element adds the bgChrome900 modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #1F2D3D;
+  background-color: #191919;
 }
 
 <button
@@ -414,11 +414,11 @@ exports[`ButtonIcon Element adds the bgDanger modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -434,7 +434,7 @@ exports[`ButtonIcon Element adds the bgDanger modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #cc1111;
+  background-color: #FF4949;
 }
 
 <button
@@ -448,11 +448,11 @@ exports[`ButtonIcon Element adds the bgDefault modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -468,7 +468,7 @@ exports[`ButtonIcon Element adds the bgDefault modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #8492A6;
+  background-color: #AFAFAF;
 }
 
 <button
@@ -482,11 +482,11 @@ exports[`ButtonIcon Element adds the bgGreen modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -516,11 +516,11 @@ exports[`ButtonIcon Element adds the bgInfo modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -536,7 +536,7 @@ exports[`ButtonIcon Element adds the bgInfo modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #0492d2;
+  background-color: #1FB6FF;
 }
 
 <button
@@ -550,11 +550,11 @@ exports[`ButtonIcon Element adds the bgOrange modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -584,11 +584,11 @@ exports[`ButtonIcon Element adds the bgPink modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -618,11 +618,11 @@ exports[`ButtonIcon Element adds the bgPurple modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -652,11 +652,11 @@ exports[`ButtonIcon Element adds the bgSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -672,7 +672,7 @@ exports[`ButtonIcon Element adds the bgSuccess modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #00a651;
+  background-color: #13CE66;
 }
 
 <button
@@ -686,11 +686,11 @@ exports[`ButtonIcon Element adds the bgWarning modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -706,7 +706,7 @@ exports[`ButtonIcon Element adds the bgWarning modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  background-color: #f2c144;
+  background-color: #FFC82C;
 }
 
 <button
@@ -720,11 +720,11 @@ exports[`ButtonIcon Element adds the bgYellow modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -754,11 +754,11 @@ exports[`ButtonIcon Element adds the boxShadow modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -774,7 +774,7 @@ exports[`ButtonIcon Element adds the boxShadow modifier 1`] = `
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   width: 3rem;
-  box-shadow: 0 0.125rem 0.75rem 0 rgba(132,146,166,0.4);
+  box-shadow: 0 0.125rem 0.75rem 0 rgba(100,100,100,0.4);
 }
 
 <button
@@ -788,11 +788,11 @@ exports[`ButtonIcon Element adds the circle modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -822,11 +822,11 @@ exports[`ButtonIcon Element adds the focusScale modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -862,11 +862,11 @@ exports[`ButtonIcon Element adds the hoverBgBlue modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -900,11 +900,11 @@ exports[`ButtonIcon Element adds the hoverBgChrome000 modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -938,11 +938,11 @@ exports[`ButtonIcon Element adds the hoverBgDanger modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -962,7 +962,7 @@ exports[`ButtonIcon Element adds the hoverBgDanger modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #e41313;
+  background-color: #ff6262;
 }
 
 <button
@@ -976,11 +976,11 @@ exports[`ButtonIcon Element adds the hoverBgDefault modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1000,7 +1000,7 @@ exports[`ButtonIcon Element adds the hoverBgDefault modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #939fb1;
+  background-color: #bcbcbc;
 }
 
 <button
@@ -1014,11 +1014,11 @@ exports[`ButtonIcon Element adds the hoverBgGreen modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1052,11 +1052,11 @@ exports[`ButtonIcon Element adds the hoverBgInfo modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1076,7 +1076,7 @@ exports[`ButtonIcon Element adds the hoverBgInfo modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #04a3eb;
+  background-color: #39beff;
 }
 
 <button
@@ -1090,11 +1090,11 @@ exports[`ButtonIcon Element adds the hoverBgOrange modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1128,11 +1128,11 @@ exports[`ButtonIcon Element adds the hoverBgPink modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1166,11 +1166,11 @@ exports[`ButtonIcon Element adds the hoverBgPurple modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1204,11 +1204,11 @@ exports[`ButtonIcon Element adds the hoverBgSuccess modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1228,7 +1228,7 @@ exports[`ButtonIcon Element adds the hoverBgSuccess modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #00c05d;
+  background-color: #15e572;
 }
 
 <button
@@ -1242,11 +1242,11 @@ exports[`ButtonIcon Element adds the hoverBgWarning modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1266,7 +1266,7 @@ exports[`ButtonIcon Element adds the hoverBgWarning modifier 1`] = `
 
 .c0:hover,
 .c0:focus {
-  background-color: #f4c95c;
+  background-color: #ffcf46;
 }
 
 <button
@@ -1280,11 +1280,11 @@ exports[`ButtonIcon Element adds the hoverBgYellow modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1318,11 +1318,11 @@ exports[`ButtonIcon Element adds the small modifier 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1353,11 +1353,11 @@ exports[`ButtonIcon Element renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;

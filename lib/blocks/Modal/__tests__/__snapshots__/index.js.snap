@@ -6,7 +6,7 @@ exports[`Modal Block renders correctly 1`] = `
   -webkit-box-align: flex-start;
   -ms-flex-align: flex-start;
   align-items: flex-start;
-  background-color: rgba(31,45,61,0.85);
+  background-color: rgba(25,25,25,0.85);
   bottom: 0;
   display: -webkit-box;
   display: -webkit-flex;
@@ -27,7 +27,7 @@ exports[`Modal Block renders correctly 1`] = `
 .c1 {
   -webkit-animation: jKHvMI 0.2s ease;
   animation: jKHvMI 0.2s ease;
-  background-color: #FFF;
+  background-color: #FFFFFF;
   border-radius: 2px;
   margin: 0.5rem;
   width: 40rem;
@@ -48,9 +48,9 @@ exports[`Modal Block renders correctly 1`] = `
   -webkit-box-align: flex-end;
   -ms-flex-align: flex-end;
   align-items: flex-end;
-  background-color: #C0CCDA;
+  background-color: #7D7D7D;
   border-radius: 2px 2px 0 0;
-  color: #FFF;
+  color: #FFFFFF;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -62,7 +62,7 @@ exports[`Modal Block renders correctly 1`] = `
 
 .c4 {
   background-color: transparent;
-  color: #8492A6;
+  color: #646464;
   position: absolute;
   right: 0;
   top: 0;
@@ -70,7 +70,7 @@ exports[`Modal Block renders correctly 1`] = `
 
 .c4:hover,
 .c4:focus {
-  color: #3C4858;
+  color: #4B4B4B;
 }
 
 .c5 {
@@ -78,11 +78,11 @@ exports[`Modal Block renders correctly 1`] = `
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFF2F7;
+  background-color: #FAFAFA;
   border: solid 2px transparent;
   border-radius: 2px;
   box-sizing: border-box;
-  color: #8492A6;
+  color: #646464;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -101,7 +101,7 @@ exports[`Modal Block renders correctly 1`] = `
 }
 
 .c6 {
-  color: #FFF;
+  color: #FFFFFF;
   font-weight: 400;
   overflow: hidden;
   padding: 0.5rem;
