@@ -196,6 +196,34 @@ exports[`TextField Element adds the focusPink modifier 1`] = `
 />
 `;
 
+exports[`TextField Element adds the focusPrimary modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #FAFAFA;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #7D7D7D;
+}
+
+.c0:focus {
+  border-bottomm-color: #7E5BEF;
+}
+
+<input
+  className="c0"
+/>
+`;
+
 exports[`TextField Element adds the focusPurple modifier 1`] = `
 .c0 {
   background: none;
@@ -224,6 +252,34 @@ exports[`TextField Element adds the focusPurple modifier 1`] = `
 />
 `;
 
+exports[`TextField Element adds the focusSecondary modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #FAFAFA;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #7D7D7D;
+}
+
+.c0:focus {
+  border-bottomm-color: #FFC82C;
+}
+
+<input
+  className="c0"
+/>
+`;
+
 exports[`TextField Element adds the focusSuccess modifier 1`] = `
 .c0 {
   background: none;
@@ -245,6 +301,34 @@ exports[`TextField Element adds the focusSuccess modifier 1`] = `
 
 .c0:focus {
   border-bottom-color: #13CE66;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`TextField Element adds the focusTertiary modifier 1`] = `
+.c0 {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #FAFAFA;
+  box-sizing: border-box;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 1rem;
+  outline: none;
+  -webkit-transition: border-bottom 200ms ease;
+  transition: border-bottom 200ms ease;
+}
+
+.c0:focus {
+  border-bottom-color: #7D7D7D;
+}
+
+.c0:focus {
+  border-bottomm-color: #FF49DB;
 }
 
 <input

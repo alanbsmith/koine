@@ -3,9 +3,9 @@
 exports[`Label Element adds the fontWeightBold modifier 1`] = `
 .c0 {
   color: #646464;
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-transform: capitalize;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 <label
@@ -18,9 +18,9 @@ exports[`Label Element adds the fontWeightBold modifier 1`] = `
 exports[`Label Element adds the italicize modifier 1`] = `
 .c0 {
   color: #646464;
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-transform: capitalize;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
   font-style: italic;
 }
 
@@ -34,9 +34,9 @@ exports[`Label Element adds the italicize modifier 1`] = `
 exports[`Label Element renders correctly 1`] = `
 .c0 {
   color: #646464;
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-transform: capitalize;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 <label

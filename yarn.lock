@@ -3114,9 +3114,9 @@ known-css-properties@^0.4.0:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/known-css-properties/-/known-css-properties-0.4.1.tgz#baaaf704e5f8a5f10e0e221212aae3ea738ea372"
 
-koine-ui-utils@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/koine-ui-utils/-/koine-ui-utils-0.2.1.tgz#e817e0559806d9c73a3c7af2664f3d4f15994d14"
+koine-ui-utils@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/koine-ui-utils/-/koine-ui-utils-0.4.0.tgz#8ab2fc9b764c03c7719c8316b818e9903b7b5305"
   dependencies:
     polished "^1.8.1"
     react "^16.0.0"

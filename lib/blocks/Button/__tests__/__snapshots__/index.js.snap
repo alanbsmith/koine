@@ -2,10 +2,10 @@
 
 exports[`Button Block adds the bgSuccess modifier 1`] = `
 .c0 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -60,10 +60,10 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
 
 exports[`Button Block adds the fullWidth modifier 1`] = `
 .c0 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -120,10 +120,10 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
 
 exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
 .c0 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -182,10 +182,10 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
 
 exports[`Button Block renders correctly 1`] = `
 .c0 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
