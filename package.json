@@ -24,7 +24,7 @@
   "author": "Alan Smith <a.bax.smith@gmail.com> (https://github.com/alanbsmith)",
   "license": "MIT",
   "dependencies": {
-    "koine-ui-utils": "^0.2.1",
+    "koine-ui-utils": "^0.4.0",
     "lodash": "^4.17.4",
     "polished": "^1.8.1",
     "react-fontawesome": "^1.6.1",

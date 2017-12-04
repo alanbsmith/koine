@@ -16,10 +16,10 @@ exports[`GhostButton Block adds the bgDanger modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -91,10 +91,10 @@ exports[`GhostButton Block adds the fullWidth modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -165,10 +165,10 @@ exports[`GhostButton Block adds the hoverBgDanger modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -247,10 +247,10 @@ exports[`GhostButton Block adds the hoverCustom modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -316,10 +316,10 @@ exports[`GhostButton Block adds the hoverDanger modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -385,10 +385,10 @@ exports[`GhostButton Block adds the hoverInfo modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -454,10 +454,10 @@ exports[`GhostButton Block adds the hoverSuccess modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -523,10 +523,10 @@ exports[`GhostButton Block adds the hoverWarning modifier 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -586,10 +586,10 @@ exports[`GhostButton Block renders correctly 1`] = `
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
@@ -663,10 +663,10 @@ exports[`GhostButton Block uses default styles if no hoverColor is provided with
 }
 
 .c1 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
   background-color: #7D7D7D;
   border-radius: 2px;
   border: solid 1px transparent;
