@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip Text Element applies the boldWeight modifier 1`] = `
+.c0 {
+  border-radius: 2px;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+<span
+  className="c0"
+>
+  Tooltip Text
+</span>
+`;
+
+exports[`Tooltip Text Element applies the capitalize modifier 1`] = `
+.c0 {
+  border-radius: 2px;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-transform: capitalize;
+}
+
+<span
+  className="c0"
+>
+  Tooltip Text
+</span>
+`;
+
+exports[`Tooltip Text Element renders correctly 1`] = `
+.c0 {
+  border-radius: 2px;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+<span
+  className="c0"
+>
+  Tooltip Text
+</span>
+`;
