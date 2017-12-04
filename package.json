@@ -28,6 +28,7 @@
     "lodash": "^4.17.4",
     "polished": "^1.8.1",
     "react-fontawesome": "^1.6.1",
+    "react-router-dom": "^4.2.2",
     "styled-components": "^2.2.2",
     "styled-components-modifiers": "^1.0.1"
   },
