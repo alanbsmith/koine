@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link Element renders correctly 1`] = `
+.c0 {
+  color: #1FB6FF;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.c0:hover,
+.c0:focus {
+  box-shadow: none;
+  color: #007cb8;
+  text-decoration: underline;
+}
+
+<a
+  className="c0"
+  href="/"
+  onClick={[Function]}
+>
+  Link
+</a>
+`;
