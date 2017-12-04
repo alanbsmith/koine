@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip Block renders correctly 1`] = `
+.c0 {
+  background-color: #191919;
+  border-radius: 2px;
+  box-shadow: 0 3px 5px 0 rgba(100,100,100,0.4);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  position: relative;
+}
+
+.c1 {
+  border-color: transparent;
+  border-style: solid;
+  height: 0;
+  position: absolute;
+  width: 0;
+  border-top-width: 0.5rem;
+  border-right-width: 0.5rem;
+  border-bottom-width: 0;
+  border-left-width: 0.5rem;
+  border-top-color: #191919;
+  bottom: -0.4375rem;
+}
+
+.c2 {
+  border-radius: 2px;
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  />
+  <span
+    className="c2"
+  >
+    tooltip text
+  </span>
+</div>
+`;
