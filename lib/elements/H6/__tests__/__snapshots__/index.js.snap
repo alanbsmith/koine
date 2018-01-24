@@ -1,16 +1,29 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`H6 Element applies lightWeight modifier 1`] = `
+.c0 {
+  font-size: 1.25rem;
+  margin: 0;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+
 <h6
-  className="sc-bdVaJa gNceKw"
+  className="c0"
 >
   Header Element
 </h6>
 `;
 
 exports[`H6 Element renders correctly 1`] = `
+.c0 {
+  font-size: 1.25rem;
+  margin: 0;
+  text-transform: capitalize;
+}
+
 <h6
-  className="sc-bdVaJa bmfcQW"
+  className="c0"
 >
   Header Element
 </h6>
