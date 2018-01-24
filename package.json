@@ -9,7 +9,7 @@
   "scripts": {
     "build": "babel lib -d build",
     "build:watch": "babel lib -w -d build",
-    "deploy": "npm run build && gh-pages -d styleguide -b master",
+    "deploy": "npm run styleguide:build && gh-pages -d styleguide -b gh-pages",
     "lint": "npm run lint:js && npm run lint:style",
     "lint:js": "eslint lib/**; exit 0",
     "lint:js:watch": "esw -w lib/**",
