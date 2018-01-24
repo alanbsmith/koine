@@ -21,7 +21,7 @@ module.exports = {
   styleguideComponents: {
     Wrapper: path.join(__dirname, 'styleguide/ThemeWrapper'),
   },
-  styleguideDir: 'docs/',
+  styleguideDir: 'docs',
   template: 'templates/index.html',
   theme: {
     color: {
