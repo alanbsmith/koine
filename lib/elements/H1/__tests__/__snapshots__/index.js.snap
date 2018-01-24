@@ -1,16 +1,29 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`H1 Element applies normalWeight modifier 1`] = `
+.c0 {
+  font-size: 2.5rem;
+  margin: 0;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
 <h1
-  className="sc-bdVaJa iGfYMb"
+  className="c0"
 >
   Header Element
 </h1>
 `;
 
 exports[`H1 Element renders correctly 1`] = `
+.c0 {
+  font-size: 2.5rem;
+  margin: 0;
+  text-transform: capitalize;
+}
+
 <h1
-  className="sc-bdVaJa jqOjeD"
+  className="c0"
 >
   Header Element
 </h1>
