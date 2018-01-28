@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.0
+* Adds new components and docs
+
 ## 1.1.0
 * Adds blocks
   * Board
