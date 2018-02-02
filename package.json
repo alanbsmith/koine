@@ -95,8 +95,7 @@
     "setupFiles": ["raf/polyfill", "./__tests__/config"]
   },
   "lint-staged": {
-    "*.{js,json,md}": ["prettier --write", "git add"],
-    "ignore": ["/docs/"]
+    "*.{js,json,md}": ["prettier --write", "git add"]
   },
   "resolutions": {
     "uglify-es": "3.3.7"
