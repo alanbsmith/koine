@@ -40,6 +40,12 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
 }
 
 .c2 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c3 {
   font-size: 1rem;
 }
 
@@ -47,13 +53,13 @@ exports[`Button Block adds the bgSuccess modifier 1`] = `
   className="c0"
 >
   <span
-    className="c1"
+    className="c1 c2"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c2"
+    className="fa fa-home c3"
   />
 </button>
 `;
@@ -100,6 +106,12 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
 }
 
 .c2 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c3 {
   font-size: 1rem;
 }
 
@@ -107,13 +119,13 @@ exports[`Button Block adds the fullWidth modifier 1`] = `
   className="c0"
 >
   <span
-    className="c1"
+    className="c1 c2"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c2"
+    className="fa fa-home c3"
   />
 </button>
 `;
@@ -162,6 +174,12 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
 }
 
 .c2 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c3 {
   font-size: 1rem;
 }
 
@@ -169,13 +187,13 @@ exports[`Button Block adds the hoverBgSuccess modifier 1`] = `
   className="c0"
 >
   <span
-    className="c1"
+    className="c1 c2"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c2"
+    className="fa fa-home c3"
   />
 </button>
 `;
@@ -219,6 +237,12 @@ exports[`Button Block renders correctly 1`] = `
 }
 
 .c2 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c3 {
   font-size: 1rem;
 }
 
@@ -226,13 +250,13 @@ exports[`Button Block renders correctly 1`] = `
   className="c0"
 >
   <span
-    className="c1"
+    className="c1 c2"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c2"
+    className="fa fa-home c3"
   />
 </button>
 `;

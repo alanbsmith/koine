@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paragraph Element adds the extraSmall modifier 1`] = `
+.c0 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+<span
+  className="c0"
+>
+  A paragraph
+</span>
+`;
+
+exports[`Paragraph Element adds the large modifier 1`] = `
+.c0 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+<span
+  className="c0"
+>
+  A paragraph
+</span>
+`;
+
+exports[`Paragraph Element adds the small modifier 1`] = `
+.c0 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+<span
+  className="c0"
+>
+  A paragraph
+</span>
+`;
+
+exports[`Paragraph Element renders correctly 1`] = `
+.c0 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+<span
+  className="c0"
+>
+  A paragraph
+</span>
+`;

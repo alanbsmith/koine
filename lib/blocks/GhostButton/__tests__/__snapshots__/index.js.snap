@@ -54,6 +54,12 @@ exports[`GhostButton Block adds the bgDanger modifier 1`] = `
 }
 
 .c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c4 {
   font-size: 1rem;
 }
 
@@ -61,13 +67,13 @@ exports[`GhostButton Block adds the bgDanger modifier 1`] = `
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c3"
+    className="fa fa-home c4"
   />
 </button>
 `;
@@ -131,6 +137,12 @@ exports[`GhostButton Block adds the fullWidth modifier 1`] = `
 }
 
 .c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c4 {
   font-size: 1rem;
 }
 
@@ -138,13 +150,13 @@ exports[`GhostButton Block adds the fullWidth modifier 1`] = `
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c3"
+    className="fa fa-home c4"
   />
 </button>
 `;
@@ -207,6 +219,12 @@ exports[`GhostButton Block adds the hoverBgDanger modifier 1`] = `
 }
 
 .c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c4 {
   font-size: 1rem;
 }
 
@@ -214,13 +232,13 @@ exports[`GhostButton Block adds the hoverBgDanger modifier 1`] = `
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c3"
+    className="fa fa-home c4"
   />
 </button>
 `;
@@ -283,11 +301,17 @@ exports[`GhostButton Block adds the hoverCustom modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
 <button
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
@@ -352,11 +376,17 @@ exports[`GhostButton Block adds the hoverDanger modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
 <button
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
@@ -421,11 +451,17 @@ exports[`GhostButton Block adds the hoverInfo modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
 <button
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
@@ -490,11 +526,17 @@ exports[`GhostButton Block adds the hoverSuccess modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
 <button
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
@@ -559,11 +601,17 @@ exports[`GhostButton Block adds the hoverWarning modifier 1`] = `
   text-transform: uppercase;
 }
 
+.c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
 <button
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
@@ -623,6 +671,12 @@ exports[`GhostButton Block renders correctly 1`] = `
 }
 
 .c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.c4 {
   font-size: 1rem;
 }
 
@@ -630,13 +684,13 @@ exports[`GhostButton Block renders correctly 1`] = `
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-home c3"
+    className="fa fa-home c4"
   />
 </button>
 `;
@@ -699,11 +753,17 @@ exports[`GhostButton Block uses default styles if no hoverColor is provided with
   text-transform: uppercase;
 }
 
+.c3 {
+  display: inline-block;
+  font-size: 1rem;
+  margin: 0;
+}
+
 <button
   className="c0 c1"
 >
   <span
-    className="c2"
+    className="c2 c3"
   >
     Login
   </span>
